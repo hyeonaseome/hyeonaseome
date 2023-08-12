@@ -33,6 +33,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>&nbsp 
 </p>
 
+<br />
+
 <h3 align="center">🔧 Tools 🔧</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white">&nbsp 
@@ -45,7 +47,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white">&nbsp
 </p>
 
-<br>
+<br />
+
+<h3 align="center">📫 How to reach me 📫</h3>
+<p align="center">
+  <a href="https://velog.io/@pixeldolphin"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@pixeldolphin"/></a>&nbsp
+  <a href="mailto:hyeona.seo.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=hyeona.seo.dev@gmail.com"/></a>
+</p>
+
+<br />
 
 ![HyeonA's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeonaseome&theme=nord&count_private=true)
 </div>
